@@ -1,4 +1,4 @@
-def addd(x,y):
+def addss(x,y):
     pass
 def subtract(x,y):
     pass
