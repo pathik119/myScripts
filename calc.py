@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def ads(x,y):
     pass
 def subtract(x,y):
