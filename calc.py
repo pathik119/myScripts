@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-def ads(x,y):
+def addition(x,y):
     pass
 def subtract(x,y):
     pass
