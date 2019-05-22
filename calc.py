@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 def addition(x,y):
-    pass
+    passed
 def subtractionnew(x,y):
     pass
 def multiply(x,y):
